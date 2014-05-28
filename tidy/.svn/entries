@@ -1,0 +1,55 @@
+10
+
+dir
+28130
+svn+ssh://worbo.worio.com/home/worio/svn/worio/thirdparty/python/elementtidy-1.0-20050212/tidy
+svn+ssh://worbo.worio.com/home/worio/svn/worio
+
+
+
+2006-07-14T23:34:48.808751Z
+3911
+rlotun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9e60a90-b7ef-0310-ae0f-a2626d03de26
+
+CVSROOT
+dir
+
+build
+dir
+
+test
+dir
+
+console
+dir
+
+include
+dir
+
+src
+dir
+
+htmldoc
+dir
+
+CVS
+dir
+
+experimental
+dir
+
